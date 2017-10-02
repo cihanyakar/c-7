@@ -6,4 +6,4 @@
 http://www.linqpad.net/GetFile.aspx?preview+LINQPad5-AnyCPU.zip
 
 
-29 Eylül 2017 Xamarin Mertup
+29 Eylül 2017 Xamarin Meetup
